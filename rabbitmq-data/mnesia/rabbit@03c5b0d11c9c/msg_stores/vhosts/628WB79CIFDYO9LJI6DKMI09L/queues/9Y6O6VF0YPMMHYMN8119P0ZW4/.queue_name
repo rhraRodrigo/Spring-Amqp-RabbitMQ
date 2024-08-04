@@ -1,0 +1,2 @@
+VHOST: /
+QUEUE: orders.v1.order-created.generate-cashback
